@@ -16,7 +16,6 @@ function App () {
       <h2><em>Counter</em></h2>
       <Counter count={count} increment={increment} decrement={decrement} />
 
-
       <br />
       <h2><em>Exponents</em></h2>
 
